@@ -1,0 +1,33 @@
+
+
+img{
+    width: 100%;
+}
+.logoimg{
+    height: 60px;
+}
+ .card .hov img{
+    transition: .4s;
+}
+.hov{
+    overflow: hidden;
+}
+.card:hover .hov img{
+    transform: scale(1.3);
+}
+.date-img{
+    width: 40px;
+    height: 40px;
+}
+.foot-sec-one p{
+    font-size: 13px;
+    margin-right: 20px;
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+.links{
+    margin-left: 0px;
+}
